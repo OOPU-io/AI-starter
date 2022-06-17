@@ -1,20 +1,22 @@
 # AI-starter
-# Project Name: __________________
+<h4>This is Heccubernny starter folder for an effective Artificial Intellligence personal project</h4>
+
+## Project Name: __________________
 ----
-# Project Objective: Problem Statement
+## Project Objective: Problem Statement
 
 
 
 -----
-# Data Sourcing
+## Data Sourcing
 
 
 
 -----
-# Data Tranformation
+## Data Tranformation
 
 
 
 ----
-# FIndings and Recommendation
+## Findings and Recommendation
 
